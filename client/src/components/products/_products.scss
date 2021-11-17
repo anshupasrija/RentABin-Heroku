@@ -1,0 +1,86 @@
+
+@import'../../main.scss';
+
+
+.card{
+    margin:16px;
+  
+    &__container{
+        display:flex;        
+                   
+    }
+   &__subcontainer{
+    width: 100%;
+    margin-right:20px;
+    border: 2px solid lightgrey;
+    height: 50vh;
+    // padding-top:5rem;
+    align-items: flex-end;
+    display: flex;
+    box-shadow: 5px 10px 20px grey ;
+    margin-left:12px;
+    overflow: hidden;
+  
+}   
+   
+   &__image{   
+    
+    width: 90%;  
+    height:90%;
+    padding: 1px;   
+    margin-right: 5px;
+    margin-left: 5px;
+    font-family: -apple-system;
+   
+   
+    }
+    &__heading{
+        font-size:5rem;
+        text-align:center;
+        font-family: 'Berkshire Swash', cursive;
+        color:rgb(95, 92, 92);
+  
+    }
+}
+.description{
+    &__container{
+        display:flex;        
+    }
+    &__subcontainer{       
+        width:100%;
+        height:20rem;
+        text-align:center;
+    }
+    &__heading{
+        font-size: 2rem;
+        margin-top:2rem;
+        font-family: 'Berkshire Swash', cursive;
+        color:rgb(95, 92, 92);
+    }
+    &__subheading{
+        font-size: 1.5rem;
+        font-weight: 600;
+        font-family: 'Open Sans', sans-serif;
+        color:rgb(73, 72, 72);
+    }
+}
+.footer{
+    &__container{
+        width:100%;
+        text-align:center;
+        // color: rgb(205,17,2);
+        
+       
+        font-size:4rem;
+    }
+    &__contact{
+         font-family: 'Berkshire Swash', cursive;
+         color:rgb(95, 92, 92);
+    }
+    &__number{
+        color:rgb(95, 92, 92);
+    }
+}
+  
+ 
+ 

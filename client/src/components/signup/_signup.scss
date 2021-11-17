@@ -1,0 +1,65 @@
+@import '../../main.scss';
+
+.login{
+    &__container{
+    display:flex;
+    height:60rem;
+    margin-top: 0;
+    padding-left:4rem;
+
+    }
+  
+    &__form{        
+        width: 55%;        
+        margin-left:5rem;  
+        // display:flex;
+        // flex-direction:column; 
+     
+    }
+    &__label{
+        font-size:2rem;
+        color:grey;
+             
+    }
+    
+    &__input{
+       
+        height:4rem;
+        width:40rem;
+        margin-bottom:2rem;   
+        &:first-child {margin-top:1rem;}     
+        
+    }
+    &__amountlabel{
+        padding-right:2rem;
+    }
+    &__mainheading{
+        margin-top: 0;
+        font-family: 'Berkshire Swash', cursive;
+        color:rgb(95, 92, 92);
+    }
+    &__button{
+        height:4rem;
+        width:10rem;
+        margin-top:2rem;
+        font-family: 'Open Sans', sans-serif;
+        margin-right:4rem;
+    }
+    &__inputamount{
+        height:4rem;
+        width:10rem;
+    }
+ 
+   
+    
+}
+.edit{
+    &__label{
+        margin-right:2rem;
+      
+    }
+}
+
+
+
+   

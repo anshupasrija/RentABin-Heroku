@@ -1,0 +1,48 @@
+[
+    {
+      "id": "1",
+      "name": "Micheal",
+      "email": "micheal@gmail.com",
+      "phone": "+1 (603) 123-1234",
+      "caterogy": "one bedroom",      
+      "days": "5"
+      
+    },
+    {
+        "id": "2",
+        "name": "Sam",
+        "email": "sam12@yahoocom",
+        "phone": "+1 (645) 523-6234",
+        "caterogy": "one bedroom",      
+        "days": "6"
+      },
+    
+      {
+        "id": "3",
+        "name": "Monica",
+        "email": "monica@hotmail.com",
+        "phone": "+1 (845) 123-4134",
+        "caterogy": "one bedroom",      
+        "days": "7"
+      },
+      {
+        "id": "4",
+        "name": "John",
+        "email": "johnbenneth@yahoo.com",
+        "phone": "+1 (746) 321-7789",
+        "caterogy": "one bedroom",      
+        "days": "2"
+        
+      },
+      {
+        "id": "5",
+        "name": "Gray",
+        "email": "graysmith@yahoo.com",
+        "phone": "+1 (646) 123-4356",
+        "caterogy": "one bedroom",      
+        "days": "4"
+        
+      }
+   
+    
+  ]
