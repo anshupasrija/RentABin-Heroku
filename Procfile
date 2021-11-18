@@ -1,1 +1,1 @@
-heroku config:set JS_RUNTIME_TARGET_BUNDLE=/app/my/custom/path/js/*.js
+web: node server.js
